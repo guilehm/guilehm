@@ -1,6 +1,6 @@
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilehm&theme=graywhite)](https://github.com/Guilehm)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilehm&theme=graywhite)](https://github.com/guilehm)
 
 ![guilehm's github stats](https://github-readme-stats.vercel.app/api?username=guilehm&count_private=true&show_icons=true&hide=contribs&theme=graywhite)
 
